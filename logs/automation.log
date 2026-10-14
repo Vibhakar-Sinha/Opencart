@@ -1,41 +1,5 @@
-09:42:13.138 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
-11:11:43.021 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-11:11:52.577 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-11:11:52.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-11:11:58.664 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
-11:11:59.145 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
-11:12:08.591 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
-11:29:38.331 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-11:29:40.923 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-11:29:40.940 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-11:29:44.799 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
-11:30:55.906 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-11:30:59.835 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-11:30:59.858 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-11:31:24.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
-11:31:24.338 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
-11:31:32.206 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
-11:47:21.663 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-11:47:25.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-11:47:26.142 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-11:47:52.437 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
-11:47:52.493 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
-11:47:54.894 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
-11:48:38.038 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-11:48:41.616 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-11:48:41.646 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-11:48:42.343 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
-11:49:06.530 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
-11:49:08.915 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
-11:59:07.298 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-11:59:11.067 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-11:59:11.095 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-11:59:36.139 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
-11:59:36.550 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
-11:59:45.568 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest **** 
-12:02:18.997 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest **** 
-12:02:22.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
-12:02:22.375 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
-12:02:26.674 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
-12:02:26.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
-12:02:29.367 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
+13:15:11.861 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Login/Signup link
+13:15:12.084 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user name & email id for signup
+13:15:49.188 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details for signup
+13:15:49.478 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating message on Signup page
+13:15:52.579 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed...
